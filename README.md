@@ -18,3 +18,9 @@ To get started with this repository, follow these steps:
 - Ensure you have Java Development Kit (JDK) installed.
 - A code editor or IDE that supports Java, such as [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [Eclipse](https://www.eclipse.org/).
 
+### Setup Instructions
+
+- Clone the repository to your local machine.
+- Open the project in your preferred IDE.
+- Explore the code, each class is designed to run independently. Feel free to explore, modify and experiment with the code.
+- Provide me with any feedback or ideas!
